@@ -245,3 +245,4 @@ int main(){
     mines.~map();
     return 0;
 }
+// HBach
